@@ -1,17 +1,17 @@
 {
   "name": "@matthewenderle/vue-classification-banner",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A reusable Vue 3 and Nuxt classification banner component with configurable text, colors, and project-wide defaults.",
   "type": "module",
   "license": "MIT",
   "author": "Matthew Enderle",
-  "homepage": "https://github.com/mattenderle488/vue-classification-banner#readme",
+  "homepage": "https://github.com/Matthewenderle/vue-classification-banner#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mattenderle488/vue-classification-banner.git"
+    "url": "git+https://github.com/Matthewenderle/vue-classification-banner.git"
   },
   "bugs": {
-    "url": "https://github.com/mattenderle488/vue-classification-banner/issues"
+    "url": "https://github.com/Matthewenderle/vue-classification-banner/issues"
   },
   "keywords": [
     "vue",
